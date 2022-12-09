@@ -5,6 +5,8 @@ void main()
 		// initialize variables
 		char letter;
 		int number;
+		
+		//This note is actually useless
 
 		// display message prompting user for letter
 			// function: printf
@@ -17,6 +19,8 @@ void main()
 
 		// get and save user number
 			// function: scanf
+			
+		//This note is useless as well :(
 
 		// display letter the given number of times
 		while( number > 0 )
