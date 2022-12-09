@@ -1,1 +1,30 @@
-Potential project file in progress...
+#include <stdio.h>
+
+void main()
+	{
+		// initialize variables
+		char letter;
+		int number;
+
+		// display message prompting user for letter
+			// function: printf
+
+		// get and save user letter
+			// function: scanf
+
+		// display message prompting user for number
+			// function: printf
+
+		// get and save user number
+			// function: scanf
+
+		// display letter the given number of times
+		while( number > 0 )
+			{
+				// print the letter
+				printf( "%c", letter );
+
+				// decrement number
+				number--;
+			}
+	}
